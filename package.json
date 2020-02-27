@@ -1,0 +1,23 @@
+{
+  "name": "SPA-project",
+  "version": "1.0.0",
+  "description": "github 自动构建金庸小说",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Zhangjie8961/SPA-project.git"
+  },
+  "keywords": [],
+  "author": "zhangjie",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Zhangjie8961/SPA-project/issues"
+  },
+  "homepage": "https://github.com/Zhangjie8961/SPA-project#readme",
+  "devDependencies": {
+    "gitbook-cli": "^2.3.2"
+  }
+}
